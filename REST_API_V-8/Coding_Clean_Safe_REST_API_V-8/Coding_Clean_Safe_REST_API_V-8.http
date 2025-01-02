@@ -1,0 +1,6 @@
+@Coding_Clean_Safe_REST_API_V_8_HostAddress = http://localhost:5015
+
+GET {{Coding_Clean_Safe_REST_API_V_8_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
